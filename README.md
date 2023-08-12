@@ -1,4 +1,4 @@
-# Placement-Management-System
+# Student-Placement-Management-System
 
 # Objective
 
